@@ -45,3 +45,10 @@ iOS MVVM-C 패턴과 클린아키텍처를 연습하기 위한 저장소입니�
 ### Repository Impl
 - Domain Layer에서 정의한 Repository Interface의 구현체입니다.
 - Moya를 사용해서 데이터를 불러오고 Usecase에 전달합니다.
+
+
+
+## Useage
+<img width="1580" alt="build_setting" src="https://user-images.githubusercontent.com/15370950/232727561-00b1ca19-0857-4a7b-b3c6-cfe0e96ddf6c.png">
+프로젝트 BuildSetting화면에서 plist 파일 경로를 설정해야 합니다.
+
